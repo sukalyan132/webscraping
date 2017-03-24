@@ -1,0 +1,144 @@
+{
+    "Toyota": {
+        "Aqua": ["Aqua"],
+        "Premio": ["Premio"],
+        "Yaris": ["Yaris"],
+        "Vitz": ["Vitz"],
+        "Passo": ["Passo"],
+        "Axio": ["Axio"],
+        "Belta": ["Belta"],
+        "Prius": ["Prius"],
+        "Ist": ["Ist"],
+        "Crown": ["Crown"],
+        "Prado": ["Prado"],
+        "Avanza": ["Avanza"],
+        "Landcruiser": ["Landcruiser", "Sahara"],
+        "Corolla 121": ["121"],
+        "Corolla 141": ["141"],
+        "Allion": ["Allion"],
+        "Vios": ["Vios"],
+        "Hilux": ["Hilux"],
+        "Cami": ["Cami", "Camy"],
+        "Fortuner": ["Fortuner", "Fortuna"],
+        "Nova": ["Nova"],
+        "Voxy": ["Voxy"],
+        "Esquire": ["Esquire"]
+    },
+
+    "Nissan": {
+        "FB-15": ["15"],
+        "Tilda": ["Tilda", "Tida"],
+        "Navara": ["Navara"],
+        "Leaf": ["Leaf", "AZEO"],
+        "FB-13": ["13"],
+        "Teana": ["Teana"],
+        "X-Trail": ["X-Trail", "X Trail"],
+        "Bluebird/Sylphy": ["Bluebird", "Sylphy"],
+        "March": ["March"],
+        "Sunny": ["16","Sunny"],
+        "Wingroad": ["Wingroad"]
+    },
+
+    "Honda": {
+        "Fit GP5": ["GP5", "GP 5", "GP-5"],
+        "Civic Ek3": ["Ek3"],
+        "Fit GP4": ["GP4", "GP 4", "GP-4"],
+        "Fit GP3": ["GP3", "GP 3", "GP-3"],
+        "Fit GP2 Shuttle": ["GP2", "GP 2", "GP-2", "Shuttle"],
+        "Vezel": ["Vezel"],
+        "ESI": ["ESI"],
+        "Insight": ["Insight"],
+        "Civic": ["Civic"],
+        "Grace": ["Grace"],
+        "City": ["City"],
+        "Crossroad": ["Crossroad"],
+        "CR V": ["CRV", "CR V", "CR-V"],
+        "Fit GD1": ["GD1"],
+        "Fit Aria": ["Aria"],
+        "Fit S": ["Fit S"],
+        "Honda Freed": ["Freed"],
+        "Airwave": ["Airwave", "Air wave"],
+        "HRV": ["HRV", "HR V", "HR-V"] 
+    },
+
+    "Mitsubishi": {
+        "CK1": ["CK1", "CK 1"],
+        "CK2": ["CK2", "CK 2"],
+        "Montero Sport": ["Montero Sport"],
+        "Pajero io": ["io"],
+        "Pajero Intercooler": ["Intercooler", "4M40"],
+        "Loncor CB3": ["CB3", "CB 3"],
+        "Montero": ["Montero"],
+        "Lancer GLS": ["GLS", "GL S"],
+        "Outlander/PHEV": ["Outlander", "PHEV"],
+        "L200": ["L200", "L 200"],
+        "Lancer CS1": ["CS1", "CS 1"],
+        "Lancer CS2": ["CS2", "CS 2"],
+        "Lancer EX": ["EX"],
+        "Galant": ["Galant"],
+        "Lancer GLX": ["GLX", "GL X"],
+        "Civic FD3": ["FD3", "FD 3"]
+    },
+
+    "Suzuki": {
+        "Wagon R": ["Wagon R", "Wagon-R", "WagonR"],
+        "Alto": ["Alto"],
+        "Liana": ["Liana"],
+        "Spacia": ["Spacia"],
+        "Swift": ["Swift"],
+        "Grand Vitara": ["Vitara"],
+        "Hustler": ["Hustler"],
+        "Celerio": ["Celerio"],
+        "Escudo": ["Escudo"]
+    },
+    
+    "BMW": {
+        "X5": ["X5", "X-5", "X 5"],
+        "E39": ["E39", "E 39", "E-39"],
+        "S20D": ["S20D", "S20 D", "S20-D"],
+        "318": ["318"],
+        "320": ["320"],
+        "330": ["330"],
+        "X3": ["X3", "X 3", "X-3"],
+        "Z4": ["Z4", "Z-4", "Z 4"],
+        "535": ["535"],
+        "523": ["523"],
+        "Cooper/Mini": ["Cooper", "Mini"],
+        "525": ["525"],
+        "740": ["740"],
+        "X1": ["X1", "X-1", "X 1"]
+    },
+
+    "Mazda": {
+        "Demio": ["Demio"],
+        "Mazda 3": ["Mazda 3", "Macda3"],
+        "Mazda 6": ["Mazda 6", "Mazda6"],
+        "Flair": ["Flair"],
+        "Familia BJ3P": ["Familia", "BJ3P"],
+        "Axela": ["Axela"],
+        "BJ10P": ["BJ10P"],
+        "Mazda 2": ["Mazda 2", "Mazda2"],
+        "RX8": ["RX8", "RX-8", "RX 8"]
+    },
+
+    "Renault": {
+        "Kwid": ["Kwid"]
+    },
+
+    "Mercedes": {
+        "C 180":["C180", "C 180", "C-180"],
+        "E 300":["E300", "E 300", "E-300"],
+        "E 200":["E200", "E 200", "E-200"],
+        "C 350":["C350", "C 350", "C-350"],
+        "C 200":["C200", "C 200", "C-200"],
+        "S 350":["S350", "S 350", "S-350"],
+        "E 220":["E220", "E 220", "E-220"],
+        "C 300":["C300", "C 300", "C-300"],
+        "C 250":["C250", "C 250", "C-250"],
+        "GLE 500":["GLE500", "GLE 500", "GLE-500"],
+        "S 400":["S400", "S 400", "S-400"],
+        "C 220":["C220", "C 220", "C-220"],
+        "S 500":["S500", "S 500", "S-500"],
+        "E 350":["E350", "E 350", "E-350"]
+    }
+}
